@@ -7,8 +7,6 @@ HEADER_LENGTH = 10
 
 IP = sys.argv[1]
 PORT = int(sys.argv[2])
-#IP = "192.168.102.187"
-#PORT = 1234
 my_username = input("Username: ")
 
 # Create a socket

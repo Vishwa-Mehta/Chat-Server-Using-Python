@@ -6,8 +6,6 @@ HEADER_LENGTH = 10
 
 IP = sys.argv[1]
 PORT = int(sys.argv[2])
-#IP = "192.168.102.187"
-#PORT = 1234
 
 # Create a socket
 # socket.AF_INET - address family, IPv4, some otehr possible are AF_INET6, AF_BLUETOOTH, AF_UNIX
